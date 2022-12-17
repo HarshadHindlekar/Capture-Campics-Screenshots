@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.screenshot {
+  height: 400px;
+  width: 400px;
+}
+.web-cam {
+  display: block !important;
+}
+.hidden-webcam {
+  display: none !important;
+}
